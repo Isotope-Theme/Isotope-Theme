@@ -1,15 +1,23 @@
 scheme: 'Isotope'
 author: 'Arden Rasmussen'
 url: 'https://github.com/Isotope-Theme/Isotope-Theme'
-grey0: "#263238"
-grey1: "#37474f"
-grey2: "#546e7a"
-grey3: "#607d8b"
-grey4: "#78909c"
-grey5: "#90a4ae"
-grey6: "#b0bec5"
-grey7: "#cfd8dc"
-grey8: "#eceff1"
+dark0: "#263238"
+dark1: "#313d43"
+dark2: "#3d484e"
+dark3: "#495459"
+dark4: "#555f65"
+dark5: "#626b71"
+dark6: "#6f787d"
+dark7: "#7c8489"
+
+light0: "#899195"
+light1: "#979ea2"
+light2: "#a4abaf"
+light3: "#b2b8bc"
+light4: "#c1c6c9"
+light5: "#cfd3d6"
+light6: "#dde1e3"
+light7: "#eceff1"
 
 red0:        "#ba000d"
 pink0:       "#b0003a"
