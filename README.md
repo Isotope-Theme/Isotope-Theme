@@ -39,6 +39,12 @@ To preserve consistency, I have also begun to develop a specification for the
 colors, specifically how they should be used for different syntax groups, and UI 
 uses.
 
+## Colors
+
+![Grey](./grey.png)
+![Colors](./colors.png)
+![Bright Colors](./bright.png)
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to
