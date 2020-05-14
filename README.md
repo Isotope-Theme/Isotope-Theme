@@ -41,7 +41,7 @@ uses.
 
 ## Colors
 
-![Grey](./grey.png)
+![Grey](./greys.png)
 ![Colors](./colors.png)
 ![Bright Colors](./bright.png)
 
